@@ -17,6 +17,10 @@ public class OOCWeek3 {
     public static void main(String[] args) {
         
         System.out.println("This is my main");
+        System.out.println("This is my main");
+        System.out.println("This is my main");
+        System.out.println("This is my main");
+        System.out.println("This is my main");
         
     }
     
