@@ -13,8 +13,7 @@ public class NewClass {
     
     public void NewClass() {
         
-        System.out.println("A");        
-        System.out.println("This is a test");
+        System.out.println("Test A");        
         System.out.println("This is my new class");
         System.out.println("This is my new class");
         
